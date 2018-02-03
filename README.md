@@ -2,4 +2,4 @@
 
 Software engineering and Web programming project.
 
-Reservation system for a university organization
+Project focus: reservation system for a university organization
